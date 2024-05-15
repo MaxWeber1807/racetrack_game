@@ -1,0 +1,15 @@
+.hyperlink:hover {
+    -fx-text-fill: "blue";
+}
+.hyperlink {
+    -fx-text-fill: "black";
+    -fx-underline: "invisible";
+}
+.hyperlink {
+    -fx-focus-traversable: false;
+}
+.text-field {
+    -fx-text-box-border: transparent;
+    -fx-background-color: white;
+    -fx-border-color: white;
+}
